@@ -68,9 +68,3 @@ I focus on:
 </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer"/>
-</p>
-![snake gif](https://github.com/salihcrkz/SalihCrkz/blob/output/github-contribution-grid-snake.gif)
