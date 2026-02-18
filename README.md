@@ -73,8 +73,4 @@ I focus on:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer"/>
 </p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salihcrkz/salihcrkz/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
