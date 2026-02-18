@@ -32,6 +32,15 @@ I focus on:
 
 ---
 
+// My_Favorite_Colors.js
+
+const myPalette = {
+  primary:   "#01e08b", // Neon Cyan
+  secondary: "#2d3436", // Charcoal
+  accent:    "#fdcb6e"  // (Opsiyonel kontrast renk)
+};
+
+---
 ## 🛠️ Tech Stack
 
 <p align="center">
