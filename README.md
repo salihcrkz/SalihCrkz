@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://r2.fivemanage.com/3q8UDuNf8R0atYNtY70gd/Cover_2.png" alt="MasterHead" width="100%" />
-  <h2 align="center">AI-Focused Web Developer • Intelligent Digital Builder</h2>
+  <img src="https://r2.fivemanage.com/3q8UDuNf8R0atYNtY70gd/Cover_2.png" alt="Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Salih</h1>
