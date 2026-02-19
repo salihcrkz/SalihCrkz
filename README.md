@@ -1,3 +1,5 @@
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<KULLANICI_ADIN>%2Fdds-encoder&count_bg=%2301E08B&title_bg=%23111111&icon=github&icon_color=%23FFFFFF&title=Views&edge_flat=true)](https://github.com/<KULLANICI_ADIN>/dds-encoder)
+
 <h1 align="center">Hi 👋, I'm Salih</h1>
 
 <p align="center">
@@ -42,7 +44,7 @@ I focus on:
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,php,mongodb,mysql,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,mongodb,mysql,vscode,figma" />
 </p>
 
 ---
