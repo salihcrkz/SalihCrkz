@@ -36,7 +36,7 @@ I focus on:
 
 ![Primary](https://img.shields.io/badge/Primary-%2301e08b?style=for-the-badge&logoColor=black)
 ![Secondary](https://img.shields.io/badge/Secondary-%232d3436?style=for-the-badge&logoColor=white)
-![Accent](https://img.shields.io/badge/Accent-%23fdcb6e?style=for-the-badge&logoColor=black)
+![Accent](https://img.shields.io/badge/Accent-%23ffffff?style=for-the-badge&logoColor=black)
 
 ---
 ## 🛠️ Tech Stack
