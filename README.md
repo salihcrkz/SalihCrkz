@@ -44,7 +44,7 @@ I focus on:
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,php,mongodb,mysql,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,nodejs,php,mongodb,mysql,vscode,figma" />
 </p>
 
 ---
