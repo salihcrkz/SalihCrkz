@@ -1,4 +1,4 @@
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<KULLANICI_ADIN>%2Fdds-encoder&count_bg=%2301E08B&title_bg=%23111111&icon=github&icon_color=%23FFFFFF&title=Views&edge_flat=true)](https://github.com/<KULLANICI_ADIN>/dds-encoder)
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<salihcrkz>%2Fdds-encoder&count_bg=%2301E08B&title_bg=%23111111&icon=github&icon_color=%23FFFFFF&title=Views&edge_flat=true)](https://github.com/<salihcrkz>/dds-encoder)
 
 <h1 align="center">Hi 👋, I'm Salih</h1>
 
