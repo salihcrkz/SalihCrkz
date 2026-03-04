@@ -34,6 +34,16 @@ I focus on:
 
 ---
 
+## ☕ Support My Work
+
+If you like this project, you can support me here:
+
+<a href="https://www.buymeacoffee.com/phonksx" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
+</a>
+
+---
+
 ## 🎨 My Palette
 
 ![Primary](https://img.shields.io/badge/Primary-%2301e08b?style=for-the-badge&logoColor=black)
