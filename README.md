@@ -56,6 +56,7 @@ If you like this project, you can support me here:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,nodejs,php,mongodb,mysql,vscode,figma" />
 </p>
+
 ---
 
 <h2 align="center">Projects</h2>
