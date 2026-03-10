@@ -56,6 +56,54 @@ If you like this project, you can support me here:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,nodejs,php,mongodb,mysql,vscode,figma" />
 </p>
+---
+
+<h2 align="center">Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Dev Portal
+
+Developer portal containing various utilities and systems.
+
+<a href="https://www.devportal.support">
+<img src="https://img.shields.io/badge/Open%20Project-2872A1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### FiveM Tools
+
+Utility tools created for the FiveM development ecosystem.
+
+<a href="https://toolsfivem.vercel.app">
+<img src="https://img.shields.io/badge/Open%20Project-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### Converter Pro
+
+Online converter platform for images, videos, and files.
+
+<a href="https://converterpro-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Open%20Project-16a34a?style=for-the-badge&logo=icloud&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
