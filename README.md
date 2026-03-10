@@ -65,7 +65,7 @@ If you like this project, you can support me here:
 <a href="https://instagram.com/salihcrkz" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="https://discord.gg/tcore" target="blank">
+<a href="https://discord.gg/woopsdev" target="blank">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 </p>
