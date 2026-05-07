@@ -1,40 +1,43 @@
 ![Views](https://api.visitorbadge.io/api/visitors?path=salihcrkz.dds-encoder&label=VIEWS&labelColor=%23111111&countColor=%2301e08b&style=flat)
 
-<h1 align="center">Hi 👋, I'm Salih</h1>
+<h1 align="center">Hi, I'm Salih</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI-Focused+Web+Developer;Intelligent+Tool+Builder;Automation+Enthusiast;Building+Smart+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=111111&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;UI+Developer;FiveM+Developer;Building+Modern+Digital+Experiences" />
 </p>
 
-<h3 align="center">🧠 21-Year-Old Developer Specializing in AI-Powered Web Solutions</h3>
+<h3 align="center">Full Stack Developer Focused on Modern Web Technologies & FiveM Development</h3>
 
 ---
 
-## 🚀 About Me
+## <img src="https://cdn.simpleicons.org/aboutdotme/111111" width="18" /> About Me
 
-Hi, I'm **Salih**, a 21-year-old developer specializing in AI-focused website design and intelligent tool development.  
+Hi, I'm **Salih**, a developer focused on building modern, scalable, and user-friendly digital experiences.
 
-I build **scalable, smart, and user-centered digital experiences** by combining modern web technologies with artificial intelligence.
+I work on both frontend and backend systems while also creating custom interfaces and development solutions for the FiveM ecosystem.
 
-My work revolves around:
+### <img src="https://cdn.simpleicons.org/devbox/111111" width="16" /> What I Do
 
-- 🤖 AI-powered web platforms  
-- ⚙️ Automation tools  
-- 📊 Smart systems that improve efficiency  
-- 💡 Turning innovative ideas into high-performance products  
+- Full Stack Web Development  
+- Modern UI Development  
+- FiveM Script & System Development  
+- Responsive Website Design  
+- Interactive Web Interfaces  
+- Performance-Focused Projects  
 
-I focus on:
+### <img src="https://cdn.simpleicons.org/sourceengine/111111" width="16" /> Development Focus
 
-- 🧱 Clean architecture  
-- ⚡ Performance optimization  
-- 🎯 Seamless user experience  
-- 🔍 Real-world problem solving  
+- Clean & Maintainable Code  
+- Fast and Optimized Systems  
+- User Experience & Accessibility  
+- Modern Frameworks & Technologies  
+- Real-World Problem Solving  
 
-> Always learning. Always building. Always improving.
+> Always building. Always improving.
 
 ---
 
-## ☕ Support My Work
+## <img src="https://cdn.simpleicons.org/buymeacoffee/111111" width="18" /> Support My Work
 
 If you like this project, you can support me here:
 
@@ -44,27 +47,31 @@ If you like this project, you can support me here:
 
 ---
 
-## 🎨 My Palette
+## <img src="https://cdn.simpleicons.org/palette/111111" width="18" /> My Palette
 
 ![Primary](https://img.shields.io/badge/Primary-%2301e08b?style=for-the-badge&logoColor=black)
 ![Secondary](https://img.shields.io/badge/Secondary-%232d3436?style=for-the-badge&logoColor=white)
 ![Accent](https://img.shields.io/badge/Accent-%23ffffff?style=for-the-badge&logoColor=black)
 
 ---
-## 🛠️ Tech Stack
+
+## <img src="https://cdn.simpleicons.org/stackshare/111111" width="18" /> Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,nodejs,php,mongodb,mysql,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,nodejs,php,mongodb,mysql,vscode,figma" />
 </p>
 
 ---
 
-<h2 align="center">Projects</h2>
+<h2 align="center">
+<img src="https://cdn.simpleicons.org/github/111111" width="18" /> Projects
+</h2>
 
 <div align="center">
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### Dev Portal
@@ -100,22 +107,24 @@ Online converter platform for images, videos, and files.
 </a>
 
 </td>
+
 </tr>
 </table>
 
 </div>
 
+---
 
-
-
-## 🌐 Connect With Me
+## <img src="https://cdn.simpleicons.org/linktree/111111" width="18" /> Connect With Me
 
 <p align="center">
+
 <a href="https://instagram.com/salihcrkz" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+
 <a href="https://discord.gg/woopsdev" target="blank">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
-</p>
 
+</p>
