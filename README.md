@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Developer-01e08b?style=for-the-badge">
   <img src="https://img.shields.io/badge/FiveM-Developer-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Web-Backend-2d3436?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Full Stack-Web Developer-2d3436?style=for-the-badge">
 </p>
 
 ---
